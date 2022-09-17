@@ -1,2 +1,2 @@
-# SPA500Stemplate
-SPA500S template
+# SPA500S template
+LibreOffice Template for the Cisco SPA500S sidecar.
