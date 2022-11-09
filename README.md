@@ -1,2 +1,4 @@
-# SPA500S template
-LibreOffice Template for the Cisco SPA500S sidecar.
+# SPA500S templates
+Templates for the Cisco SPA500S sidecar.
+
+Right now only an ODS file.
