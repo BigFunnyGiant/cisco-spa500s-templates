@@ -1,2 +1,2 @@
 # SPA500S templates
-Templates for the Cisco SPA500S sidecar.
+Spreadsheetr templates for the Cisco SPA500S sidecar.
